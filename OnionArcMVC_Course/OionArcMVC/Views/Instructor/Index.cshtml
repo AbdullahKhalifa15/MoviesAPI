@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ApplicationUser>
+@{
+    Layout = "layout-static";
+    ViewData["Title"] = "Instructor";
+    string FullName(string firstname, string lastName)
+    {
+        return (firstname + " " + lastName);
+    }
+
+}
+<div class="text-primary text-center" style="margin:40px;font-size:40px; font-weight: bold">
+    Our Instructors 
+</div>
+   
+        <div class="cards">
+            @foreach(var item in Model.Where(s=>s.FirstName!="Abdullah"))
+            {
+              <div class="card profile-card-3">
+                <div class="background-block">
+                    <img src="~/Themes/img-card/pexels-photo-459225.jpeg" alt="profile-sample1" class="background" />
+                </div>
+                <div class="profile-thumb-block">
+                <img src="@item.ImageSrc" alt="profile-image" class="profile" />
+                </div>
+                <div class="card-content">
+                <h2>
+                   @FullName(item.FirstName, item.LastName)
+                </h2><small>@item.NormalizedUserName</small>
+                <div style="margin:30px" class="icon-block"><a href="https://www.facebook.com/"><i class="fa  fa-facebook"></i></a><a href=""> <i class="fa fa-twitter"></i></a><a href="#"> <i class="fa fa-google-plus"></i></a></div>
+                </div>
+              </div>
+            }
+        
+        </div>
+

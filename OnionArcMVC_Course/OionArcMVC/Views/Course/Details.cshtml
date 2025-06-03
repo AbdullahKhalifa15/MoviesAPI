@@ -1,0 +1,38 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Detalis";
+    Layout = "layout-static";
+}
+@section Style{
+    <link href="~/Themes/css/article.css" rel="stylesheet" />
+  }
+<!-- Start Content -->
+<div class="container">
+    <!-- <section class="left"></section> -->
+    <section class="right">
+        <a asp-action="index" class="back-btn"> <i class="f-icon fa-solid fa-arrow-left"></i></a>
+        <!-- start box -->
+        <article>
+            <h1 style="font-weight:bold">@Model.Title</h1>
+            <div class="image">
+                <img src="@Model.Image"
+                   alt="article-image" />
+            </div>
+            <div class="m-3" style="color:purple ;font-weight:bold">
+                Appointment <pre class="article-body" style="color:black; font-weight:normal"> @Model.Appointment &nbsp @Model.CreatedAt.ToShortDateString() </pre>
+            </div>
+            <div class="m-3" style="color:purple ;font-weight:bold">
+              Description
+             <pre class="article-body" style="color:black ;font-weight:normal"> @Model.Details </pre>
+            </div>
+         
+            <div class="video">
+                <iframe src="https://www.youtube.com/embed/b9pkXpKUUKc"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen></iframe>
+            </div>
+        </article>
+        <!-- end box -->
+    </section>
+</div>
+<!-- End Content -->

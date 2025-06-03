@@ -1,0 +1,43 @@
+﻿
+@model Course
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "layout-static";
+}
+<form method="post">
+    <div class="border p-3 mt-5">
+        <div class="row pb-2">
+            <h2 class="text-primary"> Delete The Course </h2>
+            <hr />
+        </div>
+        @*<div asp-validation-summary="All" style="color:brown"></div>*@
+        <div class="mb-3">
+            <label class="m-2" asp-for="Title"></label>
+            <input asp-for="Title" class="form-control"  />
+        </div>
+        <div class="mb-3">
+            <label class="m-2" asp-for="Appointment"></label>
+            <input asp-for="Appointment" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="m-2" asp-for="Details"></label>
+            <input asp-for="Details" class="form-control"   />
+        </div>
+        <div class="mb-3">
+            <label class="m-2" asp-for="CreatedAt"></label>
+            <input asp-for="CreatedAt" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="m-2" asp-for="CreatedBy"></label>
+            <input asp-for="CreatedBy" class="form-control" />
+        </div>
+       
+        <div class="m-2" style="color:crimson"> Do you Want To delete Course ? </div>
+        <button  type="submit" class="btn btn-danger m-2" style="width:150px" >delete</button>
+        <a asp-controller="Admin" asp-action="Index" class="btn btn-secondary" style="width:150px">Back To Items</a>
+    </div>
+</form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+

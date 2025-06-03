@@ -1,0 +1,25 @@
+﻿@model int
+@{
+    Layout = "layout-static";
+    ViewData["Title"] = "Attendance";
+}
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="~/ThemesHome/assets/css/popup.css" rel="stylesheet" type="text/css" />
+</head>
+<body style =" background:#3c5077 ;">
+    <div>
+        <div class="popup" id="popup">
+            <img src="~/ThemesHome/assets/img/gallery/404-tick.png">
+            <h2> Done &nbsp;! </h2>
+            <p>your data has been successfully submitted. </p>
+            <a type="button" asp-action="index" asp-controller="session" asp-route-id="@ViewBag.CourseId">OK</a>
+        </div>
+    </div>
+    <script src="~/ThemesHome/assets/js/popup.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>

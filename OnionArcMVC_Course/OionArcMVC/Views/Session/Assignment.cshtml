@@ -1,0 +1,41 @@
+﻿@model List<AssginmentViewModel>
+@{
+    ViewData["Title"] = "Detalis";
+    Layout = "layout-static";
+}
+<div class="row p-5">
+    <div class="col-6">
+        <span style="font-size:30px;font-weight:700;color:#601cfc"> Assignment of @ViewBag.SessionName Session </span>
+    </div>
+    <div class="col-6 text-end">
+        <a asp-controller="Admin" asp-action="AssginmentList" asp-route-sessionid="@Model.Select(s=>s.SessionId).FirstOrDefault()" class="btn btn-primary">
+            <i class="bi bi-list"></i>&nbsp; Result
+
+        </a>
+    </div>
+</div>
+
+@for (int i=0;i<Model.Count;i++ )
+{
+    if (Model[i].DeadLine > DateTime.Now)
+    {
+        <div class="card text-center mb-5">
+            <div class="card-header text-muted">
+                <strong>Deadline:</strong>&nbsp; @Model[i].DeadLine
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Question</h5>
+                <p class="card-text">@Model[i].Question</p>
+                <a asp-action="Assignmentsolution" asp-controller="session" asp-route-id="@Model[i].Id" class="btn btn-primary">Answer Now</a>
+            </div>
+            <div class="card-footer text-muted">
+                <strong>Published:</strong>&nbsp @Model[i].Published
+            </div>
+        </div>
+    }
+    else
+    {
+       @* <h1 style="color:red;text-align:center;margin:40px 30px;font-weight:700;font-size:20px">the deadline was over </h1>*@
+    }
+}
+

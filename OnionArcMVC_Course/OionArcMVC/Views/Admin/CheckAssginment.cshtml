@@ -1,0 +1,64 @@
+﻿@model EvaluationViewModel
+@{
+    ViewData["Title"] = "evaluation";
+    Layout = "layout-static";
+}
+<head>
+    <style>
+        .container {
+            padding-right: 0 !important;
+            padding-left: 0 !important;
+            margin-right: 0 !important;
+            margin-left: 0!important;
+        }
+    </style>
+</head>
+
+<body>
+    <form method="post" asp-action="CheckAssginment">
+        <div style="text-align:center">
+            <h1 style="font-size:30px;color: #601cfc;font-weight:700;padding:30px">Student Solution </h1>
+            <span style="border:solid 2px;border-color:#3c5077 ;padding:20px;margin-bottom:50px;">
+               @Model.Solution
+            </span>
+            
+            <input type="hidden" asp-for="Solution" />
+            <input type="hidden" asp-for="StudentId" />
+            <input type="hidden" asp-for="AssginmentId" />
+            <input type="hidden" asp-for="SessionId" />
+        </div>
+        <div style="margin:10px;padding-top:60px">
+            <span style="font-size:30px;color:#601cfc;font-weight:700">Evaluate Anwser</span>
+        </div>
+        <hr />
+        <div style="margin-left:10px">
+            <span style="font-size:18px;color:#601cfc;font-weight:700"> Evaluation</span>
+        </div>
+        <div style="margin-top:10px;padding-left:10px">
+            @foreach (var item in Model.Evaluations)
+            {
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="SelectedGrade" value="@item.Grade">
+                   <label class="form-check-label" >
+                       @item.Grade
+                    </label>
+                </div>
+            }
+            <span asp-validation-for="@Model.SelectedGrade" class="text-danger"></span>
+         
+        </div>
+        <div class="form-group" style="margin-left:10px;">
+            <h1 style="padding-top:25px;font-size:18px;color:#601cfc;font-weight:700"> Comment:</h1>
+            <textarea asp-for="Comment" cols="30" rows="5"></textarea>
+            
+        </div>
+        <div style="margin:20px">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="reset" class="btn btn-danger" style="margin-left:10px">Reset</button>
+        </div>
+     
+    </form>
+</body>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

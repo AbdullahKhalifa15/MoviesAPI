@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Session>
+@{
+    Layout = "layout-static";
+    ViewData["Title"] = "Sessions";
+    int num = 1;
+}
+<head>
+    <style>
+       td .btn-primary{
+            background-color: #601cfc;
+        }
+    </style>
+</head>
+<div class="container p-3 ">
+    <div class="row pt-4">
+
+        <div class="col-6">
+            <h2 class="text-primary" style="font-weight:bold">List Of @ViewBag.coursename Sessions </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Admin" asp-action="Addsession" class="btn btn-secondary">
+                <i class="bi bi-plus"></i>&nbsp; Add new Session
+
+            </a>
+        </div>
+    </div>
+    <table class="table table-hover mt-4 " style="width:100% ">
+        <thead>
+            <tr>
+                <th scope="col"> Num </th>
+                <th scope="col"> Description </th>
+                <th scope="col"> Date</th>
+                <th scope="col"> Material </th>
+                <th scope="col"> Create At </th>
+                <th class="text-end"> Actions </th>
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-info">
+                    <td width="5%">
+                        @num
+                    </td>
+                    <td width="20%">
+                        @item.Description
+                    </td>
+                    <td width="15%">
+                        @item.Date.ToString("MM/dd/yyyy hh:mm tt",CultureInfo.InvariantCulture)
+                    </td>
+                    <td width="20%">
+                        @item.Material
+                    </td>
+                    <td width="15%">
+                        @item.CreatedAt.ToString("MM/dd/yyyy hh:mm tt",CultureInfo.InvariantCulture)
+                    </td>
+                    <td width="10%" class="text-end">
+                        <div class="dropdown text-end">
+                            <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                               
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <li><a class="dropdown-item" asp-action="AddAssignment" asp-controller="Admin" asp-route-id="@item.Id">Assignment </a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li> <a class="dropdown-item" asp-action="Attendance" asp-controller="Admin"  asp-route-id="@item.Id">Attendence </a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li> <a class="dropdown-item" asp-action="Editsession" asp-controller="Admin" asp-route-id="@item.Id">Edit </a></li>
+                                <li><hr class="dropdown-divider" /></li>
+                                <li> <a class="dropdown-item" asp-action="Deletesession" asp-controller="Admin" asp-route-id="@item.Id">Delete </a></li>
+                            </ul>
+                        </div>
+                      @*  <a asp-action="AddAssignment" asp-controller="Admin" asp-route-id="@item.Id" class="btn btn-primary btn-sm ">Assignment </a>
+                        <a asp-action="Attendance" asp-controller="Admin" class="btn btn-success  btn-sm " asp-route-id="@item.Id">Attendence </a>
+                        <a asp-action="Editsession" asp-controller="Admin" class="btn btn-secondary   btn-sm " asp-route-id="@item.Id"><i class="bi bi-pencil"></i></a>
+                        <a asp-action="Deletesession" asp-controller="Admin" class="btn btn-danger btn-sm " asp-route-id="@item.Id"><i class="bi bi-trash3"></i></a>*@
+                    </td>
+                </tr>
+                num++;
+            }
+        </tbody>
+    </table>
+</div>
+
+

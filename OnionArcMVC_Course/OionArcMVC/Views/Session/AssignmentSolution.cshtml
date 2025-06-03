@@ -1,0 +1,22 @@
+﻿@model SolutionViewModel
+@{
+    ViewData["Title"] = "Anwser";
+    Layout = "layout-static";
+}
+<form method="post">
+<div class="card" style="margin-top:70px">
+  <h5 class="card-header text-center" style="font-weight:bold">Solution</h5>
+  <div class="card-body">
+            <h5 class="card-title m-4">Please answer the question here</h5>
+    <input asp-for="Solution" class="card-text form-control"/>
+    <span asp-validation-for="Solution" class="text-danger"></span>
+  <div class="mt-5">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-danger" style="margin-left:10px">Reset</button>
+  </div>
+  </div>
+</div>
+</form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

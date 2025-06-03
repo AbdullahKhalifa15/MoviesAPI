@@ -1,0 +1,1569 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OionArcMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OionArcMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\index.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\about.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\animated-headline.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\animated-headline.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\popup.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\progressbar_barfiller.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\progressbar_barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\comment_1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\comment_2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\comment_3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\404-tick.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\404-tick.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\about2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\about2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\about3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\about3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured5.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured5.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\featured6.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\featured6.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\footer-bg.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\footer_bg.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\footer_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\form.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\form.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\h1_hero2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\h1_hero2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\heart1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\heart1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\qutaion.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\qutaion.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\screen.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\screen.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\section-bg3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\section-bg3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\section_bg01.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\section_bg01.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\section_bg02.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\section_bg02.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\tam4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\tam4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\team1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\team1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\team2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\team3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\team3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\team4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\team4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\testimonail.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\testimonail.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\testimonial.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\testimonial.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic5.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic5.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic6.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic6.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic7.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic7.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\topic8.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\topic8.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\gallery\\video-bg.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\gallery\\video-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\hero\\h1_hero.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\hero\\h1_hero.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\hero\\hero2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\hero\\hero2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\hero\\screen.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\hero\\screen.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\about.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\about.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\browser.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\browser.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\icon1.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\icon2.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\icon2.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\icon3.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\icon3.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\icon\\right-icon.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\icon\\right-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\login-bg.mp4",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\login-bg.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\logo\\loder.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\logo\\loder.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\logo\\loder.svg",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\logo\\loder.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\hover-direction-snake.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\hover-direction-snake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\jquery.vide.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\jquery.vide.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\popup.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\price-range.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_collaps.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_collaps.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_contact_form.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_contact_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_courses.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_courses.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_load-balnceing.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_load-balnceing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_login.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_services_section.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_services_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_top-sub.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_top-sub.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\_wantTowork.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\_wantTowork.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\ThemesHome\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\contact.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\courses.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\courses.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\elements.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\elements.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\index.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\ThemesHome\\main.html",
+      "PackagePath": "staticwebassets\\ThemesHome\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Bootstrap\\bootstrap.min (1).css",
+      "PackagePath": "staticwebassets\\Themes\\Bootstrap\\bootstrap.min (1).css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\401.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\404.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\500.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\BeboRegister.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\BeboRegister.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\Register3.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\Register3.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\charts.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\index.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\layout-static.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\login.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\password.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\register.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\Html_File\\tables.html",
+      "PackagePath": "staticwebassets\\Themes\\Html_File\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Themes\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Themes\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Themes\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Themes\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\img\\about3.png",
+      "PackagePath": "staticwebassets\\Themes\\assets\\img\\about3.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\img\\bg10.jpeg",
+      "PackagePath": "staticwebassets\\Themes\\assets\\img\\bg10.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Themes\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\Themes\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\Attendece.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\Attendece.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\BeboStyle.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\BeboStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\Viewprofile.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\Viewprofile.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\article.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\article.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\card.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\card.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\errorpage.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\errorpage.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\evaluationcards.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\evaluationcards.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\global (1).css",
+      "PackagePath": "staticwebassets\\Themes\\css\\global (1).css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\register.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\register3.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\register3.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Themes\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-card\\328767655_775345327484926_822621964779231698_n.jpg",
+      "PackagePath": "staticwebassets\\Themes\\img-card\\328767655_775345327484926_822621964779231698_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-card\\41.jpg",
+      "PackagePath": "staticwebassets\\Themes\\img-card\\41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-card\\pexels-photo-459225.jpeg",
+      "PackagePath": "staticwebassets\\Themes\\img-card\\pexels-photo-459225.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-card\\team2.png",
+      "PackagePath": "staticwebassets\\Themes\\img-card\\team2.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\0_ngXgBNNdx6iiWP8q.png",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\0_ngXgBNNdx6iiWP8q.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\c++.jpg",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\c++.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\computer.png",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\computer.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\csharp.png",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\csharp.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\machinelearning.jpg",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\machinelearning.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\python.png",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\img-course\\sql.png",
+      "PackagePath": "staticwebassets\\Themes\\img-course\\sql.png"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Themes\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Themes\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\js\\errorpage.js",
+      "PackagePath": "staticwebassets\\Themes\\js\\errorpage.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Themes\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\Themes\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\Themes\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ascom\\source\\repos\\OnionArcMVC_Course\\OionArcMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OionArcMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OionArcMVC.props",
+      "PackagePath": "build\\OionArcMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OionArcMVC.props",
+      "PackagePath": "buildMultiTargeting\\OionArcMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OionArcMVC.props",
+      "PackagePath": "buildTransitive\\OionArcMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
